@@ -1,5 +1,6 @@
 
-# Smart Dhopa – An Online Wash & Laundry Web App Smart Dhopa is an Online Laundry Platform with the latest technology in washing, dry cleaning and laundry. Our services combine our expertise and experience acquired over a period of time to provide you with clean laundry in the shortest possible turnaround time. 
+# Smart Dhopa 
+– An Online Wash & Laundry Web App Smart Dhopa is an Online Laundry Platform with the latest technology in washing, dry cleaning and laundry. Our services combine our expertise and experience acquired over a period of time to provide you with clean laundry in the shortest possible turnaround time. 
 ## Technology Stack 
 - Frontend: React.JS 
 - Backend: NodeJS, ExpressJS 
